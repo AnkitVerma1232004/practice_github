@@ -1,1 +1,1 @@
-gitconsole.log("hello")
+console.log("hello")
